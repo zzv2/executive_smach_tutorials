@@ -39,7 +39,7 @@ Output:
 
 """
 
-import roslib; roslib.load_manifest('smach_tutorials')
+# import roslib; roslib.load_manifest('smach_tutorials')
 import rospy
 
 import threading
